@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = loup.senizergues@gmail.com
+	name = Loup Senizergues
